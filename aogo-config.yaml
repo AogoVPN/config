@@ -1,8 +1,8 @@
-servers-url: https://aogo.dpdns.org/aogo-config.yaml
+nodes-url: https://aogo.dpdns.org/aogo-config.yaml
 android-url: https://aogo.dpdns.org/v0.8.92.apk
 windows-url: https://aogo.dpdns.org/v0.8.92.exe
 macos-url: https://aogo.dpdns.org/v0.8.92.dmg
-servers:
+nodes:
   0:
     - 127.0.0.1
     - aogo.ddnsfree.com
