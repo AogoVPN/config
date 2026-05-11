@@ -1,6 +1,4 @@
 url: https://aogo.dpdns.org/servers.yaml
-servers-url: https://aogo.dpdns.org/servers.yaml
-update-url: https://aogo.dpdns.org/servers.yaml
 servers:
   0:
     - 127.0.0.1
