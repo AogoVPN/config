@@ -1,30 +1,17 @@
 {
-    "android": {
-        "tag_name": "v0.8.92",
-        "url": "https://aogo.dpdns.org/android",
-        "body": [
-            "- 0.8.92",
-            "- aogo.ddnsfree.com",
-            "- aogo0.ddnsfree.com"
-        ]
-    },
-    "windows": {
-        "tag_name": "v0.8.92",
-        "url": "https://aogo.dpdns.org/windows",
-        "body": [
-            "- 0.8.92",
-            "- aogo.ddnsfree.com",
-            "- aogo0.ddnsfree.com"
-        ]
-    },
-    "macos": {
-        "tag_name": "v0.8.92",
-        "url": "https://aogo.dpdns.org/macos",
-        "body": [
-            "- 0.8.92",
-            "- aogo.ddnsfree.com",
-            "- aogo0.ddnsfree.com"
-        ]
-    }
-    
+  "android": {
+    "tag_name": "v0.8.92",
+    "url": "https://aogo.dpdns.org/android",
+    "body": "- 0.8.92\n- aogo.ddnsfree.com\n- aogo0.ddnsfree.com"
+  },
+  "windows": {
+    "tag_name": "v0.8.92",
+    "url": "https://aogo.dpdns.org/windows",
+    "body": "- 0.8.92\n- aogo.ddnsfree.com\n- aogo0.ddnsfree.com"
+  },
+  "macos": {
+    "tag_name": "v0.8.92",
+    "url": "https://aogo.dpdns.org/macos",
+    "body": "- 0.8.92\n- aogo.ddnsfree.com\n- aogo0.ddnsfree.com"
+  }
 }
