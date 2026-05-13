@@ -1,6 +1,6 @@
 
 update-url: https://aogo.dpdns.org/update.json
-nodes-url: https://aogo.dpdns.org/aogo-config.yaml
+nodes-url: https://aogo.dpdns.org/config.yaml
 nodes:
   0:
     - 127.0.0.1
