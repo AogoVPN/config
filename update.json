@@ -1,17 +1,17 @@
 {
   "android": {
-    "tag_name": "v0.8.92",
-    "url": "https://aogo.dpdns.org/android/aogo-vpn-0.8.93-android.apk",
+    "tag_name": "v0.8.93",
+    "url": "https://aogo.ddnsfree.com/packages/aogo-vpn-0.8.93-android.apk",
     "body": "- 0.8.93\n- aogo.ddnsfree.com\n- aogo0.ddnsfree.com"
   },
   "windows": {
     "tag_name": "v0.8.92",
-    "url": "https://aogo.dpdns.org/windows",
+    "url": "https://aogo.ddnsfree.com/windows",
     "body": "- 0.8.92\n- aogo.ddnsfree.com\n- aogo0.ddnsfree.com"
   },
   "macos": {
     "tag_name": "v0.8.92",
-    "url": "https://aogo.dpdns.org/macos",
+    "url": "https://aogo.ddnsfree.com/macos",
     "body": "- 0.8.92\n- aogo.ddnsfree.com\n- aogo0.ddnsfree.com"
   }
 }
