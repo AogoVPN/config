@@ -1,19 +1,19 @@
 {
   "android": {
     "tag_name": "v0.8.93",
-    "download_url": "https://aogo.ddnsfree.com/packages/android/aogo-vpn-0.8.93-android.apk",
+    "download_url": "https://aogo.giize.com/packages/android/aogo-vpn-0.8.93-android.apk",
     "store_url": "",
     "body": "- 0.8.93\n- bug修复\n- 功能更新"
   },
   "macos": {
     "tag_name": "v0.8.93",
-    "download_url": "https://aogo.ddnsfree.com/packages/macos/aogo-vpn-0.8.93-macos.dmg",
+    "download_url": "https://aogo.giize.com/packages/macos/aogo-vpn-0.8.93-macos.dmg",
     "store_url": "",
     "body": "- 0.8.93\n- bug修复\n- 功能更新"
   },
   "windows": {
     "tag_name": "v0.8.93",
-    "download_url": "https://aogo.ddnsfree.com/packages/windows/aogo-vpn-0.8.93-windows-setup.exe",
+    "download_url": "https://aogo.giize.com/packages/windows/aogo-vpn-0.8.93-windows-setup.exe",
     "store_url": "",
     "body": "- 0.8.93\n- bug修复\n- 功能更新"
   }
